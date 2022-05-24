@@ -4,7 +4,6 @@ class Task5 {
 
   
 
-
     public function main(){
         return $value;
     }
