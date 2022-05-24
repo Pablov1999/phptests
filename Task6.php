@@ -1,8 +1,8 @@
-<?php namespace phptests\Task5;
+<?php namespace phptests\Task6;
 
-class Task5 {
+class Task6 {
 
-  
+   
 
 
     public function main(){
